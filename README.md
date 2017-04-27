@@ -1,2 +1,2 @@
 # hola-mundo
-Se utilizara para crear program en python par sonidos digitales
+Se utilizara para crear programas en python para sonidos digitales
